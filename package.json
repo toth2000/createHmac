@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "cipher-base": "https://github.com/toth2000/cipher-base.git",
-    "create-hash": "^1.1.0",
+    "create-hash": "https://github.com/toth2000/createHash.git",
     "inherits": "^2.0.1",
     "ripemd160": "^2.0.0",
     "safe-buffer": "^5.0.1",
